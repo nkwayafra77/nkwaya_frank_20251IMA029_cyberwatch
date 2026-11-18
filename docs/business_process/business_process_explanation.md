@@ -79,10 +79,4 @@ The CyberWatch system performs database operations to manage cybersecurity incid
 NOTE PLEASE DELETE operation:Deletion is not included in this process because historical cybersecurity incident records should be preserved for future analysis. If a record is incorrect, it should be corrected rather than permanently deleted.
 
  5. Modeling Tool
-
-Tool: diagrams.net (draw.io)
-
-Diagram Type:UML Activity Diagram with Swimlanes.
-
-Published Diagram Link: To be added after creating and publishing the diagram.
-
+c
