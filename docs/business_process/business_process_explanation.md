@@ -1,7 +1,7 @@
 Phase I – Business Process Modeling
 
  Project Title
-CyberWatch: Cybersecurity Incident Management System**
+CyberWatch: Cybersecurity Incident Management System
 
 Student: Nkwaya Frank  
 Student ID: 20251IMA029  
