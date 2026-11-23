@@ -91,3 +91,16 @@ This will help users understand incident trends and identify which recorded inci
 1. European Repository of Cyber Incidents (EuRepoC). (2025). *Global Dataset of Cyber Incidents*. Zenodo. https://doi.org/10.5281/zenodo.14965395
 
 2. European Repository of Cyber Incidents (EuRepoC). *EuRepoC Database*. https://eurepoc.eu/database/
+10. Phase I – Business Process Modeling
+
+### Business Process
+CyberWatch manages cybersecurity incident recording, classification, risk prioritization, and response tracking.
+
+### Modeling Tool
+diagrams.net (draw.io)
+
+### Business Process Diagram
+[View Business Process Diagram](business_process_diagram.pdf)
+
+### Business Process Explanation
+[View Business Process Explanation](business_process_explanation.pdf)
