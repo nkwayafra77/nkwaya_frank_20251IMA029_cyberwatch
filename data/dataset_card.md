@@ -5,13 +5,13 @@
 
 | Item | Value |
 |---|---|
-| Source | European Repository of Cyber Incidents (EuRepoC), *Global Dataset of Cyber Incidents* |
+|  Source | European Repository of Cyber Incidents (EuRepoC), *Global Dataset of Cyber Incidents*, Version 1.3.2 (published 4 March 2025) |
 | Link | https://zenodo.org/records/14965395 (DOI 10.5281/zenodo.14965395) |
-| Licence | **TO CONFIRM:** copy the exact licence wording from the Zenodo record page here before submitting |
+|  Licence | Creative Commons Attribution Non Commercial 4.0 International (CC BY-NC 4.0), shown on the Zenodo record page. Used here for non-commercial educational work with credit to EuRepoC. |
 | Format | CSV, UTF-8, comma-separated, one header row |
 | File | `data/raw/eurepoc_global_dataset_1_3.csv` (never edited) |
 | Size | 3,414 records, 85 columns, about 11.5 MB |
-| Date collected | **TO FILL:** the date you downloaded it |
+|  Date collected | 23 11 2026  |
 | One record represents | One publicly reported cyber incident |
 
 ## Personal data check
