@@ -109,3 +109,13 @@ https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank
 ### Business Process Explanation
 [View Explanation PDF](business_process_explanation.pdf)
 
+## Phase II – Data Sourcing, Normalization and Logical Design
+
+The raw EuRepoC dataset (3,414 incidents, 85 columns) was analysed and normalised from one wide CSV file into 21 tables in Third Normal Form (3NF).
+
+- Raw data: [data/raw](data/raw)
+- Dataset card and quality report: [data/dataset_card.md](data/dataset_card.md)
+- Normalization steps (UNF → 1NF → 2NF → 3NF) and field mapping: [docs/design/normalization.md](docs/design/normalization.md)
+- Logical ERD (crow's foot): [docs/design/erd.png](docs/design/erd.png)
+- Data dictionary: [docs/design/data_dictionary.md](docs/design/data_dictionary.md)
+
